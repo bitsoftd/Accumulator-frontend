@@ -35,6 +35,21 @@ const cards = [
   },
 ];
 
+const dashcard = [
+  {
+    name: "Dennis",
+    role: "Blockchain Developer",
+    profilePictureSrc: baldurPicture,
+    description:
+      "Baldur is an experienced DeFi veteran with extensive knowledge on the principals of tokenomics. He’s been in the teams of rebase protocols, tomb forks, NFT projects, lending/borrowing platforms and more and has been around the block with regards to what can go wrong or right. You won’t recognize his name though as he’s chosen an anon approach for accumulator, though fully KYC’d with Truthseekers and known by that team. Baldur makes sure the Accumulator team runs smoothly and he runs a strict “no lies, no scams” policy. Accumulator is high risk high reward investment, but it’s guaranteed rug-free and will be a lot of fun. Let’s get to it, folks!",
+  },
+  {
+    name: "Julia",
+    role: "Full Stack Developer",
+    profilePictureSrc: blockchainBrainiacPicture,
+  }
+]
+
 const CardItem = ({
   role,
   name,
