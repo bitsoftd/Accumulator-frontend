@@ -10,6 +10,14 @@ const Svg = styled(Icon)`
   height: auto;
 `;
 
+const SvgIcon = styled(Icon)`
+  margin: 60px;
+  width: 60px;
+  height: 54.96px;
+  max-width: 180px;
+  height: auto;
+`;
+
 export const AccumulatorSvg = () => (
   <Svg
     width="53"
