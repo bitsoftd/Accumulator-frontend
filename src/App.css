@@ -60,6 +60,10 @@
   color:#61dafb;
 }
 
+.App-footer-color-theme {
+  color:antiquewhite;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
