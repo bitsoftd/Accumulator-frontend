@@ -49,6 +49,13 @@
   font-style: italic;
 }
 
+.App-landing-page {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: italic;
+}
+
 
 @keyframes App-logo-spin {
   from {
