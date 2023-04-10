@@ -56,6 +56,9 @@
   font-style: italic;
 }
 
+.App-header-color-theme {
+  color:#61dafb;
+}
 
 @keyframes App-logo-spin {
   from {
